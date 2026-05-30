@@ -4,7 +4,7 @@ This python discord tool uses a [Discord user token](https://gist.github.com/Mar
 
 This is the first iteration of the NeverTrust Tool and not the final nor near the final version which will include way more features than the current version.
 
-Join the [SkidCore Discord server](https://discord.gg/ZXWmSMTxkN) for more projects like this and follow the project to support me.
+Join the [SkidCore Discord server](https://discord.gg/ZXWmSMTxkN) for more projects like this and star the project to support me.
 
 I am not responsible with whatever you do with this tool and by downloading and using you agree that you are fully liable to whatever you do with the tool.
 
@@ -13,3 +13,5 @@ Anyways do whatever you want with the tool and *enjoy skids ;)*
 <img width="1109" height="446" alt="image" src="https://github.com/user-attachments/assets/800ca0dc-e224-4b41-a94a-84bf792d7a91" />
 
 <img width="790" height="333" alt="image" src="https://github.com/user-attachments/assets/5594c132-eb44-42b6-b4b8-8f529805e2e1" />
+
+*(You can edit the code however you like, just credit me)*
