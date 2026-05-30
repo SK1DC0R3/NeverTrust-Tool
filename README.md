@@ -10,3 +10,5 @@ I am not responsible with whatever you do with this tool and by downloading and 
 
 Anyways do whatever you want with the tool and *enjoy skids ;)*
 
+<img width="1109" height="446" alt="image" src="https://github.com/user-attachments/assets/800ca0dc-e224-4b41-a94a-84bf792d7a91" />
+
