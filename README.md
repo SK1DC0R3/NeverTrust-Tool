@@ -4,7 +4,7 @@ This python discord tool uses a [Discord user token](https://gist.github.com/Mar
 
 **IT WILL SPAM USING WHATEVER DISCORD USER TOKEN YOU PUT IN, DO NOT USE YOUR OWN DISCORD USER TOKEN OR IT WILL SPAM USING YOUR ACCOUNT!**
 
-Fully undetected by [VirusTotal.](https://www.virustotal.com/gui/file/2f066996a4ef04aa4cc209a406cea05db3c96e995537874008c8f431231c1f4a?nocache=1)
+Fully undetected by [VirusTotal](https://www.virustotal.com/gui/file/2f066996a4ef04aa4cc209a406cea05db3c96e995537874008c8f431231c1f4a?nocache=1) and you can check the entire code if you want.
 
 This is the first iteration of the NeverTrust Tool and not the final nor near the final version which will include way more features than the current version.
 
